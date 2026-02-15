@@ -6,4 +6,4 @@ Using this risks your sanity. Use at your own risk.
 
 AnnoyingBashScript but works on Windows
 
-Bash script repo (here)[https://github.com/Gr44y/AnnoyingBashScript]
+Bash script repo [here](https://github.com/Gr44y/AnnoyingBashScript)
