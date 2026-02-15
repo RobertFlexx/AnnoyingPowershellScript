@@ -4,4 +4,4 @@ AnnoyingPowershellScript is a really annoying powershell script. I wouldn't even
 Using this risks your sanity. Use at your own risk.
 
 
-AnnoyingBashScript but works on Bindoj
+AnnoyingBashScript but works on Windows
